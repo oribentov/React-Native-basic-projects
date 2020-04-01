@@ -3,4 +3,4 @@ Some react-native projects from the first course - includes basics, navigator, s
 
 1. Enter to a project
 2. Run "npm install"
-3. Run "npm run"
+3. Run "npm start"
